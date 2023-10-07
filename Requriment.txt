@@ -1,0 +1,4 @@
+ SpeechRecognition 
+ googletrans 
+ gtts 
+ playsound
